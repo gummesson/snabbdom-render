@@ -41,7 +41,7 @@ Use `patch` to render the given `tree` on the `root` node.
 
 [npm-img]: https://img.shields.io/npm/v/snabbdom-render.svg?style=flat-square
 [npm-url]: https://npmjs.com/package/snabbdom-render
-[license-img]: http://img.shields.io/npm/l/vdom.svg?style=flat-square
+[license-img]: http://img.shields.io/npm/l/snabbdom-render.svg?style=flat-square
 [license-url]: LICENSE
 [travis-img]: https://img.shields.io/travis/gummesson/snabbdom-render.svg?style=flat-square
 [travis-url]: https://travis-ci.org/gummesson/snabbdom-render
